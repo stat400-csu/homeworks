@@ -1,4 +1,4 @@
-# homework
+# homeworks
 
 Homework assignments for STAT400 @ CSU
 
