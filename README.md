@@ -8,4 +8,4 @@ Complete all homework in rstudio.cloud in the appropriate repo and turn in repor
 
 ## Assignments
 
-1. [Homework 1](hw-1/) - Due Sep. 5
+1. [Homework 1](../hw-1) - Due Sep. 5
